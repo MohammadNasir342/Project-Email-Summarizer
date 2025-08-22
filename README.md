@@ -2,11 +2,11 @@
 A Python-based GUI tool to fetch categorized Outlook emails using Microsoft Graph API, analyze them using OpenAI GPT, and display clean results.
 
 Features:
-Interactive GUI (Tkinter)
-Microsoft OAuth 2.0 login with MSAL
-Category-based email filtering
-Email Parcing
-GPT integration for summarization or analysis
+1. Interactive GUI (Tkinter)
+2. Microsoft OAuth 2.0 login with MSAL
+3. Category-based email filtering
+4. Email Parcing
+5. GPT integration for summarization or analysis
 
 ## Setup
 
